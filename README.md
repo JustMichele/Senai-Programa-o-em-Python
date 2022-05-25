@@ -1,6 +1,6 @@
 # Senai-Programacao-em-Python
 
-- Aula 1 - Introducao 
+- Aula 1 - Introdução 
 - Aula 2 - Comandos condicionais
 - Aula 3 - Laços
 - Aula 4 - Listas
